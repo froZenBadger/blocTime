@@ -1,0 +1,31 @@
+{
+  "name": "bloctime",
+  "version": "1.0.0",
+  "description": "Pomodoro time mgmt mean app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froZenBadger/blocTime.git"
+  },
+  "keywords": [
+    "pomodoro"
+  ],
+  "author": "Chris Palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/froZenBadger/blocTime/issues"
+  },
+  "homepage": "https://github.com/froZenBadger/blocTime#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "method-override": "^2.3.9",
+    "mongoose": "^4.11.4",
+    "node-restful": "^0.2.6",
+    "resourcejs": "^1.7.0"
+  }
+}
